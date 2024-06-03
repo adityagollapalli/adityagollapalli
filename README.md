@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-📖 I'm currently a graduate student at Seattle University<br>🔭 I’m currently working on honing my Job-related Skills<br>👯 You can reach me on: Linkedin - @adityagollapalli<br>🤝 I’m looking for help with AWS and Azure Cloud Technologies.<br>🌱 I’m currently learning Cloud Technologies and about Data Science Methodology.<br>⚡ Fun fact: I spend my free time learning wisdom from ancient texts.
+📖 I have recently garduated from Seattle University (June 2024) <br>🔭 I’m currently working on honing my Job-related Skills<br>👯 You can reach me on: Linkedin - @adityagollapalli<br>🤝 I’m looking for help with AWS and Azure Cloud Technologies.<br>🌱 I’m currently learning Cloud Technologies and about Data Science Methodology.<br>⚡ Fun fact: I spend my free time learning wisdom from ancient texts.
 
 
 ## 🌐 Socials:
